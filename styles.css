@@ -230,7 +230,7 @@ button:hover {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 0 10rem 3rem 10rem;
+  padding: 3rem 10rem;
   max-width: 100%;
 }
 
